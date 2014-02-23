@@ -1,0 +1,6 @@
+C:\Users\trung\Desktop\TAILIEUHOC\LẬP TRÌNH HƯỜNG ĐỐI TƯỢNG\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\trung\Desktop\TAILIEUHOC\LẬP TRÌNH HƯỜNG ĐỐI TƯỢNG\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\trung\Desktop\TAILIEUHOC\LẬP TRÌNH HƯỜNG ĐỐI TƯỢNG\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\trung\Desktop\TAILIEUHOC\LẬP TRÌNH HƯỜNG ĐỐI TƯỢNG\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+E:\thangchobi\TAILIEUHOC\LẬP TRÌNH HƯỜNG ĐỐI TƯỢNG\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\thangchobi\TAILIEUHOC\LẬP TRÌNH HƯỜNG ĐỐI TƯỢNG\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
